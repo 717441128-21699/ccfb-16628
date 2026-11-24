@@ -13,6 +13,10 @@ credentials*.json
 .npmrc
 .pypirc
 node_modules/
+dist/
 __pycache__/
 .venv/
 venv/
+chrome-smoke/
+.chrome-smoke*/
+scripts/.*.mjs
